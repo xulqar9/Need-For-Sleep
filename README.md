@@ -45,7 +45,7 @@ This project is the result of the collaborative effort of the following develope
 - **SeventhFret**
 - **kyrylo**
 - **DarleneLamboy**
-- **1bless** *me*
+- **xulqar9** *me*
 
 Each member brought unique skills and perspectives, making this project not just a learning experience, but a testament to the power of teamwork in software development.
 
